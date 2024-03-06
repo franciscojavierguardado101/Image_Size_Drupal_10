@@ -1,0 +1,7 @@
+name: My Image Resizer Module
+description: "Provides a custom image effect plugin for resizing images."
+type: module
+core_version_requirement: ^8 || ^9 || ^10
+dependencies:
+  - image
+  - file
